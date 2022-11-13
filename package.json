@@ -1,0 +1,20 @@
+{
+  "name": "business-plan-creator",
+  "version": "1.0.0",
+  "description": "A small web app to automate the creation of a business plan. Outputs in pdf, powerpoint, ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alainQtec/Business-Plan-Creator.git"
+  },
+  "keywords": [],
+  "author": "Alain Herve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alainQtec/Business-Plan-Creator/issues"
+  },
+  "homepage": "https://github.com/alainQtec/Business-Plan-Creator#readme"
+}
